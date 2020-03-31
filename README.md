@@ -1,5 +1,5 @@
 # DNV GL Tutorial
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mikofski/covid-19-data/dnvgl-tutorial?filepath=NYTimes%20COVID-19%20Python-Pandas-Jupyter%20Tuorial.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mikofski/covid-19-data/march29?filepath=NYTimes%20COVID-19%20Python-Pandas-Jupyter%20Tutorial.ipynb)
 
 # Coronavirus (Covid-19) Data in the United States
 
